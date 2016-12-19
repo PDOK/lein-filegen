@@ -1,4 +1,4 @@
-(defproject pdok/lein-filegen "0.1.0"
+(defproject pdok/lein-filegen "0.1.0-SNAPSHOT"
   :description "Leiningen plugin to generate files"
   :signing {:gpg-key "pdok@kadaster.nl"}
   :url "https://github.com/PDOK/lein-filegen"

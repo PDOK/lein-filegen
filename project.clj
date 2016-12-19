@@ -1,4 +1,4 @@
-(defproject pdok/lein-filegen "0.1.0-SNAPSHOT"
+(defproject pdok/lein-filegen "0.1.0"
   :description "Leiningen plugin to generate files"
   :url "https://github.com/PDOK/lein-filegen"
   :license {:name "Eclipse Public License"
